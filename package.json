@@ -1,0 +1,11 @@
+{
+  "name": "foo",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.8.104"
+  },
+  "dependencies": {
+    "jszip": "3.4.0"
+  }
+}
