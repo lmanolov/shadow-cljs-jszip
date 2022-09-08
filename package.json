@@ -6,6 +6,6 @@
     "shadow-cljs": "2.8.104"
   },
   "dependencies": {
-    "jszip": "3.4.0"
+    "jszip": "3.7.0"
   }
 }
